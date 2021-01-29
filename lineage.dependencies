@@ -1,0 +1,20 @@
+[
+  {
+    "remote"     : "github",
+    "repository" : "ilurell/android_device_xiaomi_msm8996-common",
+    "target_path": "device/xiaomi/msm8996-common",
+    "branch"     : "lineage-18.1"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "crdroidandroid/android_kernel_xiaomi_msm8996",
+    "target_path": "kernel/xiaomi/msm8996",
+    "branch"     : "11.0"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "crdroidandroid/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch"     : "11.0-gemini"
+  }
+]
